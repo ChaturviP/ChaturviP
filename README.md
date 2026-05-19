@@ -1,172 +1,200 @@
-<h1 align="center">Hi 👋, I'm Chaturvi P</h1>
-<h3 align="center">Computer Science Engineering Student | AI & Systems Enthusiast | Aspiring Quant-Tech Engineer</h3>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║   CHATURVI P  ·  CS Engineer  ·  AI × Systems × Finance  ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+**`B.Tech CSE @ RV University · Bengaluru · CGPA 8.75`**
+
+*Building systems that combine intelligence, engineering, and real-world impact.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-chaturvi-9ba94535b/)
+[![GitHub followers](https://img.shields.io/github/followers/ChaturviP?style=flat-square&color=333&labelColor=111&label=followers)](https://github.com/ChaturviP)
+[![Profile views](https://komarev.com/ghpvc/?username=ChaturviP&style=flat-square&color=6366f1&label=profile+views)](https://github.com/ChaturviP)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-- 🎓 B.Tech CSE Student at **RV University**
-- 📍 Based in Bangalore, Karnataka
-- 🤖 Interested in **Artificial Intelligence, Deep Learning, IoT Systems, and Quantitative Finance**
-- 💡 Passionate about building real-world engineering systems across software, hardware, and AI
-- 📈 Exploring the intersection of **Finance + AI + Backend Systems**
-- 🌱 Currently learning more about:
-  - Deep Learning Architectures
-  - System Design
-  - DevOps & Deployment
-  - Financial Analytics
+```yaml
+name        : Chaturvi P
+location    : Bengaluru, Karnataka, India
+education   : B.Tech CSE — RV University (Expected 2028)
+interests   : [ AI/Deep Learning, IoT Systems, Quantitative Finance, Backend Infra ]
+currently   : [ Deep Learning Architectures, System Design, DevOps, Financial Analytics ]
+languages   : [ English, Hindi, Kannada ]
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls -la tech-stack/`
 
-### Languages
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=mysql)
-![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus)
-![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3)
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3b82f6)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=eab308)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=6366f1)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=a855f7)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=22d3ee)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=3b82f6)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-333333?style=for-the-badge&logo=keras)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas)
+**AI / ML**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=f97316)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=f59e0b)
+![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=ef4444)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=6366f1)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=for-the-badge&logo=androidstudio)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-333333?style=for-the-badge&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=for-the-badge&logo=jupyter)
+**Tools & Platforms**
 
----
-
-# 📌 Featured Projects
-
-## 🚲 NeuroBike
-### IoT Smart Bicycle Conversion System
-
-- ESP32-based IoT smart bicycle platform
-- Real-time GPS tracking & monitoring
-- Sensor integration with live dashboard
-- Embedded systems + web technologies
-
-🔗 Repository:  
-[NeuroBike](https://github.com/ChaturviP/NeuroBike)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=3b82f6)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=eab308)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=22d3ee)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-111827?style=for-the-badge&logo=androidstudio&logoColor=22c55e)
+![Google Colab](https://img.shields.io/badge/Colab-111827?style=for-the-badge&logo=googlecolab&logoColor=f97316)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=f97316)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=f59e0b)
 
 ---
 
-## ❤️ Robust ECG Arrhythmia Detection
-### Deep Learning Healthcare System
+## `$ cat projects/`
 
-- Hybrid CNN-LSTM architecture
-- Trained on 10,247 ECG records
-- Simulated wearable-device noise robustness
-- Achieved 81.4% accuracy and 94.9% recall
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Repository:  
-[Robust-ECG-Arrhythmia-Detection](https://github.com/ChaturviP/Robust-ECG-Arrhythmia-Detection)
+### 🚲 NeuroBike
+**IoT Smart Bicycle Conversion**
 
----
+ESP32-based platform with real-time GPS tracking, sensor integration, and a live web dashboard. Embedded hardware meets full-stack web.
 
-## 🧠 COGNIA
-### Self-Learning Java Chatbot System
+`ESP32` `IoT` `GPS` `Web Dashboard`
 
-- NLP preprocessing & similarity matching
-- Context-aware conversational system
-- Persistent knowledge storage
-- Modular Java architecture
+[→ View Repository](https://github.com/ChaturviP/NeuroBike)
 
-🔗 Repository:  
-[COGNIA](https://github.com/ChaturviP/COGNIA)
+</td>
+<td width="50%" valign="top">
 
----
+### ❤️ ECG Arrhythmia Detection
+**Deep Learning · Healthcare**
 
-## 📈 Stock-X
-### Stock Portfolio Management System
+Hybrid CNN-LSTM trained on 10,247 ECG records with Gaussian noise augmentation simulating wearable conditions. **81.4% accuracy · 94.9% recall**
 
-- Full-stack PHP + MySQL application
-- Secure authentication & portfolio tracking
-- Buy/sell transaction management
-- Database triggers & stored procedures
+`PyTorch` `CNN` `LSTM` `Healthcare AI`
 
-🔗 Repository:  
-[Stock-X](https://github.com/ChaturviP/Stock-X)
+[→ View Repository](https://github.com/ChaturviP/Robust-ECG-Arrhythmia-Detection)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🎵 Moodify
-### Spotify-Inspired Android Music Application
+### 🧠 COGNIA
+**Self-Learning Java Chatbot**
 
-- Kotlin-based Android application
-- Playlist and music management
-- Firebase Authentication integration
-- Modern mobile UI/UX design
+NLP preprocessing, synonym handling, and similarity-based matching with persistent knowledge storage. Modular client-server architecture.
 
-🔗 Repository:  
-[Moodify](https://github.com/ChaturviP/Moodify)
+`Java` `NLP` `Client-Server` `Chatbot`
 
----
+[→ View Repository](https://github.com/ChaturviP/COGNIA)
 
-## ✨ ButtonBlingz
-### Modular Wearable Accessory Concept
+</td>
+<td width="50%" valign="top">
 
-- Fabric-safe snap-on wearable accessory
-- Modular interchangeable design
-- CAD-based prototype development
-- Product innovation concept
+### 📈 Stock-X
+**Portfolio Management System**
 
-🔗 Repository:  
-[ButtonBlingz](https://github.com/ChaturviP/ButtonBlingz)
+Full-stack PHP + MySQL application with secure auth, buy/sell transaction management, stored procedures, triggers, and portfolio value tracking.
 
----
+`PHP` `MySQL` `Full-Stack` `FinTech`
 
-# 📚 Certifications
+[→ View Repository](https://github.com/ChaturviP/Stock-X)
 
-- ☁️ Introduction to Cloud Computing on AWS for Beginners [2025] — Udemy :contentReference[oaicite:0]{index=0}
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎵 Moodify
+**Spotify-Inspired Android App**
 
-# 📊 GitHub Stats
+Kotlin-based music app with playlist management, Firebase authentication, and modern mobile UI/UX design principles.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaturviP&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaturviP&theme=github-dark-blue&hide_border=true" height="170"/>
-</p>
+`Kotlin` `Android` `Firebase` `Mobile`
 
----
+[→ View Repository](https://github.com/ChaturviP/Moodify)
 
-# 🌍 Interests
+</td>
+<td width="50%" valign="top">
 
-- Artificial Intelligence
-- Quantitative Finance
-- Financial Analytics
-- Embedded Systems
-- Sports
-- Travel
-- Gaming
+### 🔩 ButtonBlingz
+**Modular Wearable Concept**
+
+Fabric-safe, snap-on modular accessory system designed using CAD prototyping. A product innovation at the intersection of hardware and fashion.
+
+`CAD` `Product Design` `Wearables` `Hardware`
+
+[→ View Repository](https://github.com/ChaturviP/ButtonBlingz)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Connect With Me
+## `$ cat stats/`
 
-- GitHub: https://github.com/ChaturviP
-- LinkedIn: https://www.linkedin.com/in/p-chaturvi-9ba94535b/
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChaturviP&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&ring_color=6366f1" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaturviP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=94a3b8&dates=6b7280&stroke=6366f1" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaturviP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" height="130"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building systems that combine intelligence, engineering, and real-world impact."</i>
-</p>
+## `$ cat certifications/`
+
+| Credential | Provider | Year |
+|---|---|---|
+| ☁️ Introduction to Cloud Computing on AWS for Beginners | Udemy | 2025 |
+
+---
+
+## `$ cat interests/`
+
+```
+Artificial Intelligence  ·  Quantitative Finance  ·  Financial Analytics
+Embedded Systems  ·  Sports  ·  Travel  ·  Gaming
+```
+
+---
+
+## `$ ping chaturvi`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ChaturviP-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaturviP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-p--chaturvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-chaturvi-9ba94535b/)
+[![Email](https://img.shields.io/badge/Email-chaturvi123%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:chaturvi123@gmail.com)
+
+<br/>
+
+```
+> Aspiring Quant-Tech Engineer
+> Open to collaborations, internships & research opportunities
+> Currently @ RV University, Bengaluru · Expected 2028
+```
+
+</div>
