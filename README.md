@@ -154,25 +154,7 @@ Fabric-safe, snap-on modular accessory system designed using CAD prototyping. A 
 
 <div align="center">
 
-<!-- Profile views + followers — works immediately on any account -->
-![](https://komarev.com/ghpvc/?username=ChaturviP&style=flat-square&color=6366f1&label=profile+views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ChaturviP?style=flat-square&color=6366f1&labelColor=111&label=followers&logo=github)](https://github.com/ChaturviP)
-
-<br/><br/>
-
-<!-- Top Languages — works as long as repos are public -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaturviP&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=8" height="220"/>
-
-<br/><br/>
-
-<!-- Activity Graph — populates with commits, shows empty graph skeleton immediately -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaturviP&bg_color=0d1117&color=6366f1&line=4f6fa8&point=a5b4fc&area=true&area_color=1e1b4b&hide_border=true&radius=6" width="96%"/>
-
-<br/><br/>
-
-<!-- Trophies — works on any account, shows earned trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ChaturviP&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
 </div>
 
